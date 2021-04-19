@@ -1,0 +1,2 @@
+kinematics_directory_path:::C:\HHIAutomation\OpenBlockWeldingRobot_Server\Init\kinematics
+sync_task_sample_period:::2000
